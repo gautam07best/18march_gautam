@@ -1,0 +1,166 @@
+body 
+{
+    margin: 0;
+    padding: 0;
+    overflow-x: hidden;
+    /* box-sizing: border-box; */
+    background-color: #fffcef !important;
+}
+.navbar-brand
+{
+    z-index: 5 !important;
+}
+.navbar-brand img 
+{
+    z-index: 5 !important;
+}
+.content 
+{
+    width: 100%;
+    height: auto;
+}
+.content h1 
+{
+    font-size: 68px;
+    letter-spacing: 2px;
+    font-weight: bolder;
+}
+.falvour 
+{
+    font-size: 35px;
+    margin-right: -10% !important;
+    line-height: 0;
+}
+.buynow
+{
+    width: 90% !important;
+    height: auto;
+    border-radius: 50px !important;
+}
+
+.know-us
+{
+    width: 100%;
+    height: 550px;
+    background: url(../images/home-bg-img.webp) no-repeat;
+    /* background-size: cover; */
+    background-size: 100% 550px;
+    /* background-attachment: fixed; */
+
+}
+
+.know-us
+{
+    width: 100%;
+    height: 550px !important;
+   
+}
+.know-us h1 
+{
+    font-size: 68px;
+    letter-spacing: 2px;
+    font-weight: bolder;
+    font-family: cursive;
+}
+.know-us p 
+{
+    font-size: 35px;
+    font-family: cursive;
+
+}
+
+.product-info
+{
+    width: 30%;
+    height: auto;
+    margin-top: -1%;
+    float: left;
+}
+
+.product-info1
+{
+    width: 30%;
+    height: auto;
+    margin-top: -1%;
+    float: left;
+    margin-left: 14%;
+}
+.product-info2
+{
+    width: 25%;
+    height: auto;
+    margin-top: 0%;
+    float: left;
+    margin-left: 0%;
+}
+.product-info h1,.product-info1 h1,.product-info2 h1 
+{
+    font-size: 30px;
+    letter-spacing: 2px;
+    font-weight: bolder;
+    font-family: cursive;
+    color: white;
+}
+
+#para
+{
+    width: 70%;
+    height: auto;
+    margin: auto;
+    font-size: 15px !important;
+    font-weight: 400;
+    margin-top: 25% !important;
+}
+
+.btn-lg
+{
+    width: 20% !important;
+    height: auto;
+    margin: auto;
+    border-radius: 70px !important;
+}
+
+.send
+{
+    width: 20% !important;
+    height: auto !important;
+    padding: 8px !important;
+    border-radius: 70px !important;
+    float: left !important;
+}
+
+
+.surprise
+{
+    width: 100%;
+    height: auto;
+    padding: 15px;
+    background-color: white !important;
+}
+.surprise h1 
+{
+    font-size: 68px;
+    letter-spacing: 2px;
+    font-weight: bolder;
+    font-family: cursive;
+}
+
+.bi-facebook,.bi-twitter,.bi-instagram,.bi-youtube,.bi-linkedin
+{
+    font-size: 25px;
+    letter-spacing: 8px;
+
+}
+.footer-link li
+{
+    width: auto;
+    height: auto;
+    text-decoration: none;
+    list-style-type: none;
+}
+.footer-link a 
+{
+    text-decoration: none;
+    list-style-type: none;
+    color: white;
+}

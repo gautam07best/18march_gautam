@@ -1,0 +1,38 @@
+body 
+{
+    margin: 0;
+    padding: 0;
+    overflow-x: hidden;
+    box-sizing: border-box;
+}
+.navbar-link
+{
+    margin-right: 5%;
+}
+.navbar-link li 
+{
+    display: block;
+    padding: 0px 2px;
+    color: white !important ;
+}
+.navbar-link a 
+{
+    color: white;
+    text-decoration: none;
+    list-style-type: none;
+    font-size: 13px !important; 
+}
+.navbar-link:hover 
+{
+    color: white !important;
+}
+.dropdown-menu 
+{
+    max-width: 280px !important;
+}
+.dropdown-menu a
+{
+    color: black;
+    padding: 10px;
+    font-size: 13px !important; 
+}
